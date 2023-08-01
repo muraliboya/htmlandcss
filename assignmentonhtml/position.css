@@ -1,0 +1,30 @@
+
+html,body{
+    height:100%;
+    width:100%;
+}.parent{
+    height:100%;
+    width: 100%;
+    background-color: white;
+    position:relative;
+}
+.image{
+    float:right;
+    border-radius:50%;
+
+}
+.firstp{
+    bottom: 10px;
+    left:10px;
+    top:90%s;
+    position:absolute;
+}
+.secondp{
+    text-align: center;
+    align-items: center;
+    display:flex;
+    position:absolute;
+    top:50%;
+    bottom:50%;
+
+}
