@@ -1,0 +1,16 @@
+html,body{
+    height:100%;
+    width:100%;
+}
+.sticky{
+    position:sticky;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width:100%;
+    background-color: blue;
+    left:0;
+    top:0;
+}
